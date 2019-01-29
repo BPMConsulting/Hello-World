@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="GDPR Working with regulation" id="a23a4fce-2b6d-4a01-b47f-7336a1b9ef54" version="4.0.1">
+  <metadata/>
+  <folder name="Strategy" id="a13b80e4-0d09-4c16-b35a-13feeb0f055c" type="strategy"/>
+  <folder name="Business" id="1533d8a6-0ce1-4795-bf5b-572de85eb5c2" type="business"/>
+  <folder name="Application" id="353af81d-3308-45d8-b51d-488d1cfdf85b" type="application"/>
+  <folder name="Technology &amp; Physical" id="b8445b27-f131-498f-9488-d680d5fe4127" type="technology"/>
+  <folder name="Motivation" id="121518c3-dde7-4c3c-8802-6e6f84daeb70" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="ff85da54-58ce-4614-8762-8615ffb6f26a" type="implementation_migration"/>
+  <folder name="Other" id="79a6c723-48c7-4b71-8050-d05c2f1e6c1e" type="other"/>
+  <folder name="Relations" id="6e85a6da-b50b-4e7f-8824-97a602db8540" type="relations"/>
+  <folder name="Views" id="0906896e-404c-4745-8b73-eaeabb26383a" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="bb072861-456b-430b-be33-9251cc129ec6"/>
+  </folder>
+</archimate:model>
